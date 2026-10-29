@@ -35,7 +35,7 @@ The app uses **Gemma 4** (Google's open-weight multimodal model) through the Gem
    ```
 
 ## Demo
-Add screenshots / demo video link here.
+https://drive.google.com/file/d/1luyOlPcQOCr68M3z_ZKusuek4XfnC1IX/view?usp=sharing
 
 ## Roadmap
 - PDF upload
